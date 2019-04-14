@@ -1,0 +1,4 @@
+{"movie_id":385,"title":"True Lies (1994)","release_date":"01-Jan-1994","similarity":0.719504013}
+{"movie_id":161,"title":"Top Gun (1986)","release_date":"01-Jan-1986","similarity":0.7075674101}
+{"movie_id":79,"title":"Fugitive, The (1993)","release_date":"01-Jan-1993","similarity":0.6965830704}
+{"movie_id":96,"title":"Terminator 2: Judgment Day (1991)","release_date":"01-Jan-1991","similarity":0.6955560359}
